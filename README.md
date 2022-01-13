@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Al394
 - 👀 I’m interested in security, front-end, android development
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently learning Ruby, Rails, JS, Css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instagram: @sancio94
 
