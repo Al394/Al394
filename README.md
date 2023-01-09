@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Al394
-- 👀 I’m interested in security, front-end, android development
-- 🌱 I’m currently learning Ruby, Rails, JS, Css
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in full-stack, web dev, and cyber security
+- 🌱 I’m currently learning Node, Kotlin
+- 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me Instagram: @sancio94
 
 <!---
